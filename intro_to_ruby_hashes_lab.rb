@@ -4,7 +4,8 @@ end
 
 def my_hash
   # return a valid hash with any key/value pair of your choice
-  my_hash = {key:}
+  my_hash = {name: "adao", age: "30"}
+  return my_hash
 end
 
 def pioneer
