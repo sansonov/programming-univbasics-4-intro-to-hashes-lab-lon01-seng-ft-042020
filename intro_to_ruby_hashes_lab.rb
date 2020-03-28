@@ -16,7 +16,7 @@ end
 
 def id_generator
   # return a hash with a key :id assigned to positive integer
-  id_generator = {id: "10"}
+  id_generator = {id: 10}
   return id_generator
 end
 
